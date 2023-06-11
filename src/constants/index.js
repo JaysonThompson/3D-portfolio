@@ -91,14 +91,14 @@ const technologies = [
   // {
   //   name: "Redux Toolkit",
   //   icon: redux,
-  // },
+  // },  
+  {
+    name: "git",
+    icon: git,
+  },
   {
     name: "Tailwind CSS",
     icon: tailwind,
-  },
-  {
-    name: "Node JS",
-    icon: nodejs,
   },
   // {
   //   name: "MongoDB",
@@ -109,17 +109,17 @@ const technologies = [
   //   icon: threejs,
   // },
   {
-    name: "git",
-    icon: git,
-  },
-  {
     name: "figma",
     icon: figma,
-  },
+  },  
   {
-    name: "docker",
-    icon: docker,
+    name: "Node JS",
+    icon: nodejs,
   },
+  // {
+  //   name: "docker",
+  //   icon: docker,
+  // },
 ];
 
 const experiences = [
