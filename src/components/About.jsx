@@ -45,7 +45,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3x1 leading-[30px]"
       >
-        I'm a manager with 3 years of experience of leading a development team of 12 engineers creating tools to improve efficiency and client satisfaction, and developing designs on a proprietary website platform. I focus on building an inclusive culture within the team, emphasizing building skills and career development.
+        I'm a manager with 3 years of experience of leading a development team of 12 engineers creating tools to improve efficiency and client satisfaction, and developing designs on a proprietary website platform. I focus on building an inclusive culture within the team, emphasizing on career development and building skills.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index)  => (
