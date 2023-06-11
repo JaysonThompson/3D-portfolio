@@ -23,6 +23,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  //russell,
+  //ansira,
 } from "../assets";
 
 export const navLinks = [
@@ -126,7 +128,7 @@ const experiences = [
   {
     title: "Manager, Software Engineering",
     company_name: "Ansira",
-    icon: starbucks,
+    //icon: ansira,
     iconBg: "#383E56",
     date: "October 2020 - April 2023",
     points: [
@@ -140,8 +142,8 @@ const experiences = [
   {
     title: "Software Engineer III",
     company_name: "Ansira",
-    icon: tesla,
-    iconBg: "#E6DEDD",
+    //icon: ansira,
+    iconBg: "#383E56",
     date: "April 2020 - October 2020",
     points: [
       "Architected new features with 5 scrolling transitions that enhanced the websites on the platform",
@@ -152,7 +154,7 @@ const experiences = [
   {
     title: "Frontend Developer (Contractor)/Software Engineer II",
     company_name: "Ansira",
-    icon: shopify,
+    //icon: ansira,
     iconBg: "#383E56",
     date: "August 2017 - April 2020",
     points: [
@@ -166,8 +168,8 @@ const experiences = [
   {
     title: "Web Developer/E-Business Engineer",
     company_name: "Russell Investments",
-    icon: meta,
-    iconBg: "#E6DEDD",
+    //icon: russell,
+    iconBg: "#383E56",
     date: "June 2009 – June 2017",
     points: [
       "Created frontend UI for single page web application using Angular2 and .NET MVC creating a pdf file based on user inputs",
@@ -180,8 +182,8 @@ const experiences = [
   {
     title: "E-Business Producer",
     company_name: "Russell Investments",
-    icon: meta,
-    iconBg: "#E6DEDD",
+    //icon: russell,
+    iconBg: "#383E56",
     date: "February 2007 – June 2009",
     points: [
       "Produced 10 micro websites for product marketing, increasing customer engagement and reducing marketing costs",
@@ -191,8 +193,8 @@ const experiences = [
   {
     title: "Business Services Agent",
     company_name: "Russell Investments",
-    icon: meta,
-    iconBg: "#E6DEDD",
+    //icon: russell,
+    iconBg: "#383E56",
     date: "January 2004 – February 2007",
     points: [
       "Updated and maintained web intranet content using content editor and custom HTML",
