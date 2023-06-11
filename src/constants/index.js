@@ -116,10 +116,10 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  // {
-  //   name: "docker",
-  //   icon: docker,
-  // },
+  {
+    name: "docker",
+    icon: docker,
+  },
 ];
 
 const experiences = [
@@ -204,27 +204,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Jayson is a collaborative, innovative problem solver, who is a delight to work with. He is a customer champion who will go out of his way to help someone get what they need. ",
+    name: "Kathleen Waite",
+    designation: "Enterprise Applications Manager",
+    company: "Ansira",
+    image: "https://media.licdn.com/dms/image/D4E03AQFJ-VvzV5NAZw/profile-displayphoto-shrink_100_100/0/1673637275816?e=1692230400&v=beta&t=uW-gPMYzLkTZBLkbEPa_al6ValDYK07GiTHtaHKznqc",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "As my manager, I had full trust in Jayson right away. He was transparent, encouraging, motivating and it was clear that he truly had the team’s interest at heart.",
+    name: "Rachel Fourquet",
+    designation: "Senior Software Engineer",
+    company: "Sincro, an Ansira Company",
+    image: "https://media.licdn.com/dms/image/C5603AQFBP3AcOVJpRw/profile-displayphoto-shrink_100_100/0/1533174210741?e=1692230400&v=beta&t=kakXUjqpX2_rVbfqz9w2AAUYc-1fgaSZEJrcOTTKRPk",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "As a business partner, Jayson is phenomenal. He took time to meet with me, truly listen, and put thought and effort into outlining the best solution. He knew how to speak to me without overwhelming my brain with the true technical side of things. He could explain in simple terms, but I was never fooled into thinking that it was a simple task for his team to complete. He and his team invested themselves into the work and the results and I was never disappointed.",
+    name: "Kim Dearie",
+    designation: "Worked with Jayson but on different teams",
+    company: "Ansira",
+    image: "https://media.licdn.com/dms/image/D4D03AQEQ5gcDRqIehg/profile-displayphoto-shrink_100_100/0/1683056996888?e=1692230400&v=beta&t=lO72EzYzdt4sztc2uP3UzETQV3E5TRKousfyouBomNU",
   },
 ];
 
