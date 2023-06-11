@@ -23,8 +23,9 @@ import {
   jobit,
   tripguide,
   threejs,
-  //russell,
-  //ansira,
+  portfolio,
+  russell,
+  ansira,
 } from "../assets";
 
 export const navLinks = [
@@ -127,9 +128,9 @@ const technologies = [
 const experiences = [
   {
     title: "Manager, Software Engineering",
-    //company_name: "Ansira",
-    //icon: ansira,
-    iconBg: "#383E56",
+    company_name: "Ansira",
+    icon: ansira,
+    iconBg: "#fff",
     date: "October 2020 - April 2023",
     points: [
       "Led a remote, 12 member developer team focused on frontend and application development using Agile methodologies",
@@ -142,8 +143,8 @@ const experiences = [
   {
     title: "Software Engineer III",
     company_name: "Ansira",
-    //icon: ansira,
-    iconBg: "#383E56",
+    icon: ansira,
+    iconBg: "#fff",
     date: "April 2020 - October 2020",
     points: [
       "Architected new features with 5 scrolling transitions that enhanced the websites on the platform",
@@ -154,8 +155,8 @@ const experiences = [
   {
     title: "Frontend Developer (Contractor)/Software Engineer II",
     company_name: "Ansira",
-    //icon: ansira,
-    iconBg: "#383E56",
+    icon: ansira,
+    iconBg: "#fff",
     date: "August 2017 - April 2020",
     points: [
       "Identified opportunities and implemented solutions to become first to market against industry competition",
@@ -168,8 +169,8 @@ const experiences = [
   {
     title: "Web Developer/E-Business Engineer",
     company_name: "Russell Investments",
-    //icon: russell,
-    iconBg: "#383E56",
+    icon: russell,
+    iconBg: "#fff",
     date: "June 2009 – June 2017",
     points: [
       "Created frontend UI for single page web application using Angular2 and .NET MVC creating a pdf file based on user inputs",
@@ -182,8 +183,8 @@ const experiences = [
   {
     title: "E-Business Producer",
     company_name: "Russell Investments",
-    //icon: russell,
-    iconBg: "#383E56",
+    icon: russell,
+    iconBg: "#fff",
     date: "February 2007 – June 2009",
     points: [
       "Produced 10 micro websites for product marketing, increasing customer engagement and reducing marketing costs",
@@ -193,8 +194,8 @@ const experiences = [
   {
     title: "Business Services Agent",
     company_name: "Russell Investments",
-    //icon: russell,
-    iconBg: "#383E56",
+    icon: russell,
+    iconBg: "#fff",
     date: "January 2004 – February 2007",
     points: [
       "Updated and maintained web intranet content using content editor and custom HTML",
@@ -222,7 +223,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "As a business partner, Jayson is phenomenal. He took time to meet with me, truly listen, and put thought and effort into outlining the best solution. He knew how to speak to me without overwhelming my brain with the true technical side of things. He could explain in simple terms, but I was never fooled into thinking that it was a simple task for his team to complete. He and his team invested themselves into the work and the results and I was never disappointed.",
+      "As a business partner, Jayson is phenomenal. He took time to meet with me, truly listen, and put thought and effort into outlining the best solution. He knew how to speak to me without overwhelming my brain with the true technical side of things.",
     name: "Kim Dearie",
     designation: "Worked with Jayson but on different teams",
     company: "Ansira",
@@ -232,25 +233,21 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "My Portfolio",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Static web page built using React, TailwindCSS, and ThreeJS (3D modeling) to showcase my skills and understanding of these technologies while at the same time sharing my career experiences through the years",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
         name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: portfolio,
+    source_code_link: "https://github.com/JaysonThompson/3D-portfolio/",
   },
   {
     name: "Job IT",
