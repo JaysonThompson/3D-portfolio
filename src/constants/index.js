@@ -24,7 +24,7 @@ import {
   tripguide,
   threejs,
   //russell,
-  ansira,
+  //ansira,
 } from "../assets";
 
 export const navLinks = [
@@ -128,7 +128,7 @@ const experiences = [
   {
     title: "Manager, Software Engineering",
     //company_name: "Ansira",
-    icon: ansira,
+    //icon: ansira,
     iconBg: "#383E56",
     date: "October 2020 - April 2023",
     points: [
