@@ -51,19 +51,19 @@ const services = [
   },
   {
     title: "Software Engineer III",
-    icon: creator,
+    icon: backend,
   },
   {
     title: "Software Engineer II",
-    icon: creator,
+    icon: mobile,
   },
   {
     title: "Web Developer",
-    icon: creator,
+    icon: backend,
   },
     {
     title: "E-Business Producer",
-    icon: creator,
+    icon: web,
   },
     {
     title: "Business Services Agent",
