@@ -45,7 +45,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3x1 leading-[30px]"
       >
-        I have over 10 years of experience with frontend development as a web developer, with both web applications and websites working with an Agile Methodology. I have extensive HTML5, CSS3, and JavaScript knowledge along with a strong focus on a mobile first development concept with a strong desire to create the best desktop experience across all browsers. I also have experience with the REACT libraries for building the frontend of single page applications.
+        I have over 10 years of experience with frontend development as a web developer, with both web applications and websites working with an Agile methodology. I have extensive HTML5, CSS3, and JavaScript knowledge along with a strong focus on a mobile first development concept with a strong desire to create the best desktop experience across all browsers. I also have experience with the REACT libraries for building the frontend of single page applications.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index)  => (
