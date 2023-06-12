@@ -45,7 +45,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3x1 leading-[30px]"
       >
-        I'm a manager with 3 years of experience of leading a development team of 12 engineers creating tools to improve efficiency and client satisfaction, and developing designs on a proprietary website platform. I focus on building an inclusive culture within the team, emphasizing on career development and building skills.
+        I have over 10 years of experience with frontend development as a web developer, with both web applications and websites working with an Agile Methodology. I have extensive HTML5, CSS3, and JavaScript knowledge along with a strong focus on a mobile first development concept with a strong desire to create the best desktop experience across all browsers. I also have experience with the REACT libraries for building the frontend of single page applications.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index)  => (
