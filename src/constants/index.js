@@ -26,6 +26,7 @@ import {
   portfolio,
   russell,
   ansira,
+  googlekeep,
 } from "../assets";
 
 export const navLinks = [
@@ -238,6 +239,10 @@ const projects = [
       "Static web page built using React, TailwindCSS, and ThreeJS (3D modeling) to showcase my skills and understanding of these technologies while at the same time sharing my career experiences through the years",
     tags: [
       {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
         name: "react",
         color: "blue-text-gradient",
       },
@@ -248,6 +253,27 @@ const projects = [
     ],
     image: portfolio,
     source_code_link: "https://github.com/JaysonThompson/3D-portfolio/",
+  },
+  {
+    name: "Google Keep Clone",
+    description:
+      "A Google Keep clone application using vanilla HTML, CSS, and javaScript. I used this project to refamiliarize myself with javaScript and local storage after having to step away from the dev role for several years.",
+    tags: [
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "html",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "css",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: googlekeep,
+    source_code_link: "https://github.com/JaysonThompson/google-keep-clone",
   },
   // {
   //   name: "Job IT",

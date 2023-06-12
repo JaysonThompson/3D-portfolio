@@ -32,6 +32,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import portfolio from "./portfolio.png";
+import googlekeep from "./googlekeep.png";
 
 export {
   logo,
@@ -65,4 +66,5 @@ export {
   russell,
   ansira,
   portfolio,
+  googlekeep,
 };
