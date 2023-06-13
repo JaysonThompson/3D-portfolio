@@ -34,6 +34,7 @@ import tripguide from "./tripguide.png";
 import portfolio from "./portfolio.png";
 import googlekeep from "./googlekeep.png";
 import hackerNews from "./hackerNews.png";
+import movieSearch from "./movieSearch.png";
 
 export {
   logo,
@@ -69,4 +70,5 @@ export {
   portfolio,
   googlekeep,
   hackerNews,
+  movieSearch,
 };

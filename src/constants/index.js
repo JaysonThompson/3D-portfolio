@@ -28,6 +28,7 @@ import {
   ansira,
   googlekeep,
   hackerNews,
+  movieSearch,
 } from "../assets";
 
 export const navLinks = [
@@ -254,6 +255,7 @@ const projects = [
     ],
     image: portfolio,
     source_code_link: "https://github.com/JaysonThompson/3D-portfolio/",
+    demo_code_link: "https://jaysonthompson.com",
   },
   {
     name: "Google Keep Clone",
@@ -275,6 +277,7 @@ const projects = [
     ],
     image: googlekeep,
     source_code_link: "https://github.com/JaysonThompson/google-keep-clone",
+    demo_code_link: "https://jaysongooglekeepclone.netlify.app/",
   },
     {
     name: "Hacker News Clone",
@@ -296,6 +299,29 @@ const projects = [
     ],
     image: hackerNews,
     source_code_link: "https://github.com/JaysonThompson/hacker-news-clone",
+    demo_code_link: "https://jayson-hacker-news-clone.netlify.app/",
+  },
+      {
+    name: "Movie Search React App",
+    description:
+      "A small react app that searches for movies using the OMDb API. It uses basic components and file structures but was a great exercise for state management and mapping through data objects.",
+    tags: [
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "html",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: movieSearch,
+    source_code_link: "https://github.com/JaysonThompson/movie-search-react-app",
+    demo_code_link: "https://jayson-movie-search.netlify.app/",
   },
   // {
   //   name: "Job IT",
