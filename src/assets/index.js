@@ -33,6 +33,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import portfolio from "./portfolio.png";
 import googlekeep from "./googlekeep.png";
+import hackerNews from "./hackerNews.png";
 
 export {
   logo,
@@ -67,4 +68,5 @@ export {
   ansira,
   portfolio,
   googlekeep,
+  hackerNews,
 };

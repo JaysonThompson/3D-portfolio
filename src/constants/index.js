@@ -27,6 +27,7 @@ import {
   russell,
   ansira,
   googlekeep,
+  hackerNews,
 } from "../assets";
 
 export const navLinks = [
@@ -274,6 +275,27 @@ const projects = [
     ],
     image: googlekeep,
     source_code_link: "https://github.com/JaysonThompson/google-keep-clone",
+  },
+    {
+    name: "Hacker News Clone",
+    description:
+      "A Hacker News clone that introduces modularity outside of a javaScript library or framework. It also uses api endpoints to collect stories to display on pages.",
+    tags: [
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "html",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "css",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: hackerNews,
+    source_code_link: "https://github.com/JaysonThompson/hacker-news-clone",
   },
   // {
   //   name: "Job IT",
